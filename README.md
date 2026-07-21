@@ -1,26 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:F24E1E&height=180&section=header&text=Hi%20there%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+# SPARKKNIFE
 
-<a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=21759B&center=true&vCenter=true&width=560&lines=Computer+Engineering+Graduate;UI%2FUX+Design+Enthusiast;WordPress+Developer;فارغ‌التحصیل+مهندسی+کامپیوتر" alt="Typing SVG" />
+### Software Developer
+
+*Building software, learning continuously, and creating practical solutions.*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Engineer;Software+Developer;Backend+%26+Desktop+Development;WordPress+Plugin+Developer;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm a Computer Engineer passionate about software development and continuous learning.
+
+I enjoy building practical applications, solving real-world problems, and improving my skills through projects and self-learning.
+
+- 💻 Software Development
+- 🔧 Backend Development
+- 🌐 WordPress Plugin Development
+- 🎨 UI/UX Design
+- 📈 SEO
+- 🚀 Open Source Enthusiast
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,php,python,js,dart" />
+</p>
+
+### Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,wordpress" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,gitlab,figma,vscode" />
+</p>
+
+---
+
+# 📚 Learning
+
+- Software Architecture
+- Design Patterns
+- REST APIs
+- Clean Code
+- Docker
+- Advanced Git
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Student Management System
+
+⭐ Library Management System
+
+⭐ WordPress Plugins
+
+⭐ Portfolio Website
+
+⭐ Weather Application
+
+⭐ Task Manager
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sparkknife&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkknife&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sparkknife&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=wordpress,figma,html,css,js,php,mysql&theme=light" />
-
-<br><br>
-
-<a href="mailto:mobin.ahmadiyan.m.a@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mobin-ahmadiyan-098424146/)">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:F24E1E&height=100&section=footer" width="100%"/>
+<div align="center">
+
+### "First, solve the problem. Then, write the code."
+
+— John Johnson
 
 </div>
