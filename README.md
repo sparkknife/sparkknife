@@ -1,133 +1,121 @@
 <div align="center">
 
-# SPARKKNIFE
+# <SK/>
 
-### Software Developer
+### SparkKnife
 
-*Building software, learning continuously, and creating practical solutions.*
+**CE/IT**
+
+> *Building practical software through continuous learning.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Engineer;Software+Developer;Backend+%26+Desktop+Development;WordPress+Plugin+Developer;Always+Learning+New+Things" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👋 About
 
-I'm a Computer Engineer passionate about software development and continuous learning.
+I'm a Computer Engineer with a passion for problem solving, and building practical applications.
 
-I enjoy building practical applications, solving real-world problems, and improving my skills through projects and self-learning.
-
-- 💻 Software Development
-- 🔧 Backend Development
-- 🌐 WordPress Plugin Development
-- 🎨 UI/UX Design
-- 📈 SEO
-- 🚀 Open Source Enthusiast
+Currently expanding my knowledge in UI/UX design, SEO web, and modern web design.
 
 ---
 
-# 💻 Tech Stack
+# 🧰 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,php,python,js,dart" />
-</p>
+- C#
+- C++
+- PHP
+- JavaScript
+- Python
+- Dart
+
+### Mobile
+
+- Flutter
 
 ### Web
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,wordpress" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
-</p>
+- HTML5
+- CSS3
+- WordPress Plugin Development
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- MySQL
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,figma,vscode" />
-</p>
+- Git
+- GitLab
+- Figma
+- VS Code
+
+### Other
+
+- UI/UX Design
+- SEO
+- Software Design
 
 ---
 
-# 📚 Learning
+# 📚 Currently Learning
 
-- Software Architecture
-- Design Patterns
+- Clean Architecture
 - REST APIs
-- Clean Code
 - Docker
-- Advanced Git
+- Software Design Patterns
+- Backend Development
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ Student Management System
+🔹 Student Management System
 
-⭐ Library Management System
+🔹 Library Management System
 
-⭐ WordPress Plugins
+🔹 WordPress Plugins
 
-⭐ Portfolio Website
+🔹 Weather App
 
-⭐ Weather Application
+🔹 Portfolio Website
 
-⭐ Task Manager
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sparkknife&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkknife&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+🔹 Task Manager
 
 ---
 
-# 🔥 Contribution
+# 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sparkknife&theme=github-dark&hide_border=true"/>
-
-</p>
+- Build more real-world projects
+- Improve backend development skills
+- Learn cloud technologies
+- Contribute to Open Source
 
 ---
 
 # 📫 Contact
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobin.ahmadiyan.m.a@gmail.com)
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mobin-ahmadiyan-098424146)
 
 ---
 
 <div align="center">
 
-### "First, solve the problem. Then, write the code."
+### <SK/>
 
-— John Johnson
+*"Code with purpose. Learn without limits."*
 
 </div>
