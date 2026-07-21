@@ -1,28 +1,26 @@
 <div align="center">
 
-# Hi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:F24E1E&height=180&section=header&text=Hi%20there%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-**FA** — فارغ‌التحصیل مهندسی کامپیوتر، علاقه‌مند به UI/UX و توسعه با وردپرس.
-**EN** — Computer Engineering graduate, interested in UI/UX design and WordPress development.
+<a href="https://github.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=21759B&center=true&vCenter=true&width=560&lines=Computer+Engineering+Graduate;UI%2FUX+Design+Enthusiast;WordPress+Developer;فارغ‌التحصیل+مهندسی+کامپیوتر" alt="Typing SVG" />
+</a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://skillicons.dev/icons?i=wordpress,figma,html,css,js,php,mysql&theme=light" />
 
-<div align="center">
+<br><br>
 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<a href="mailto:mobin.ahmadiyan.m.a@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mobin-ahmadiyan-098424146/)">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-📫 **Reach me:** your-email@example.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/your-profile)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:F24E1E&height=100&section=footer" width="100%"/>
 
 </div>
